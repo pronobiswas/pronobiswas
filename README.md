@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pronobiswas
-- 👀 I’m interested in web-desing @web devolop
-- 🌱 I’m currently learning html css java script
-- 💞️ I’m looking to collaborate on ...java Script, node.js
-- 
+- 👀 I’m interested in web-design @web devolopment
+- 🌱 I’m currently learning java script react nodejs express js
+- 💞️ I’m looking to collaborate on ...java Script, node.js ,react
+- expreance with HTML5 CSS3 BootStrap Tailwind CSS
 - 📫 01531881596
 
 <!---
