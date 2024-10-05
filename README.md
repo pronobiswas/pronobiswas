@@ -9,4 +9,4 @@
 pronobiswas/pronobiswas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://th.bing.com/th/id/OIP.IihTes2LLjqQsObFHEh34AHaEK?w=296&h=180&c=7&r=0&o=5&pid=1.7" alt ="png">
+<img src="https://th.bing.com/th/id/OIP.IihTes2LLjqQsObFHEh34AHaEK?w=296&h=180&c=7&r=0&o=5&pid=1.7" alt ="png" style="width:100px height:100px ">
