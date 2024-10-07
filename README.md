@@ -5,9 +5,6 @@
 - experience with HTML5 CSS3 BootStrap Tailwind CSS
 - 📫 01531881596
 
-- <iframe src="https://lottie.host/embed/cc831f1f-c933-44f9-a25c-e0205c0d2c67/6A7UKFQnRt.json"></iframe>
-
-
 <!---
 pronobiswas/pronobiswas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
